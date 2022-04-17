@@ -1,0 +1,15 @@
+Install:
+
+npx create-nuxt-app nuxt2-bootstrap
+
+To get started:
+
+        cd nuxt2-bootstrap
+        npm run dev
+
+To build & start for production:
+
+        cd nuxt2-bootstrap
+        npm run build
+        npm run start
+
