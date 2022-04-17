@@ -1,11 +1,11 @@
 <template>
   <div>
-    Index Page
+    Header
   </div>
 </template>
 
 <script>
 export default {
-  name: 'IndexPage'
+  name: 'TheHeader'
 }
 </script>
