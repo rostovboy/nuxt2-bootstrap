@@ -9,10 +9,10 @@
       </div>
       <div class="carousel-inner">
         <div class="carousel-item active">
-          <img src="@/assets/scss/img/banner-2.jpg" class="d-block w-100 img-fluid rounded" alt="">
+          <img src="/images/banner-2.jpg" class="d-block w-100 img-fluid rounded" alt="">
         </div>
         <div class="carousel-item">
-          <img src="@/assets/scss/img/banner-3.jpg" class="d-block w-100 img-fluid rounded" alt="">
+          <img src="/images/banner-3.jpg" class="d-block w-100 img-fluid rounded" alt="">
         </div>
       </div>
       <button class="carousel-control-prev" type="button" data-bs-target="#carouselMainpageIndicators"
