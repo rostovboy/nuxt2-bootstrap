@@ -1,11 +1,13 @@
 <template>
   <div>
-    Header
+    <TheNavbar />
   </div>
 </template>
 
 <script>
+import TheNavbar from "./TheNavbar.vue";
 export default {
-  name: 'TheHeader'
+    name: "TheHeader",
+    components: { TheNavbar }
 }
 </script>
