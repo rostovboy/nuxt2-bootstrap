@@ -1,6 +1,5 @@
 <template>
   <default-layout>
-    <MainpageCarousel />
     <main class="mt-4 mb-4">
       <Nuxt />
     </main>
